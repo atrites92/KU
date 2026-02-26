@@ -1,7 +1,5 @@
 // @author Aaron Trites
-#include<iostream>
-#include<cstio>
-
+#include<stdio.h>
 int main(){
 
   return 0;
