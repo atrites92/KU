@@ -18,6 +18,7 @@ int main(){
             break;
         }
 
+        printf("Possible combinations of scoring play if a team's score is %d\n", score);
         //Calculate possible point combinations
         //Check for only one type of score the whole game
         if (score % pointWorth[0] == 0){ //ALL SFTs
